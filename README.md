@@ -8,4 +8,4 @@
 
 ![imagen](https://github.com/user-attachments/assets/d6048ce5-b233-485c-a3b7-306ec94fcca6)
 
-https://www.thingiverse.com/thing:3824888/files
+
