@@ -1,6 +1,7 @@
 # Mecatronica-Proyecto
 
-![imagen](https://github.com/user-attachments/assets/16487d63-1991-4d9b-b108-c4abba7a919a)
+![image](https://github.com/user-attachments/assets/bc8f3cff-2e52-4dc8-9c1d-63564fa3d47e)
+
 
 ![imagen](https://github.com/user-attachments/assets/e98a1715-aa36-4d3b-8f2b-05e041102cfc)
 
